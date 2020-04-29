@@ -1,0 +1,10 @@
+.start {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    font-size: large;
+    font: bolder;
+    color: black;
+  }
+
+  
